@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jain443mohit
 - 👀 I’m interested in data analysis
-- 🌱 I’m currently learning sql,tablue
+
 
 <!---
 jain443mohit/jain443mohit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
